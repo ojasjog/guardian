@@ -58,8 +58,8 @@ This repo exists to support a course's "Innovative Design Project" requirement, 
 
 ## License
 
-TBD.
+TBD
 
 ## Contact
 
-TBD — add team names, emails, and guide name here.
+TBD 
