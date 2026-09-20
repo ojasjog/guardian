@@ -1,4 +1,4 @@
-# DomainShield
+# GUARDIAN 
 
 A content-integrity verifier for LLM-generated outputs: detects when a hidden instruction embedded in an input (a document, email, webpage, or tool result) has silently steered an LLM's response, even when no privileged action or tool call occurred.
 
